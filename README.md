@@ -1,0 +1,4 @@
+-My name is Egweni Ajirioghene Oluwabunmi 
+-Presently I’m learning how to clean,transform and analyse data using the following analytic tools;Microsoft Excel, SQL Sever and Power BI.
+-I’m looking to collaborate on roles that will provide opprtunities to work and explore with data for the benefit of stakeholders
+-You can reach me on Facebook and Linkedin
